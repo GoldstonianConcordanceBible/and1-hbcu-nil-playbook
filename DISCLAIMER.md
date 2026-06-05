@@ -1,4 +1,3 @@
-BOX 2 — CONTENT
 # Disclaimer
 
 This repository is for educational, informational, community development, and strategic planning purposes only.
