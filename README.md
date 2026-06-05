@@ -1,5 +1,3 @@
-#AND1 HBCU NIL Playbook
-
 ## Streetball Built the Culture. HBCUs Deserve the Marketplace.
 
 AND1 proved that basketball culture does not only come from the NBA.
